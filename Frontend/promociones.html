@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promociones - Sushi Akrya</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #f8f8f8; color: #333; }
+        .container { width: 90%; max-width: 1200px; margin: 0 auto; }
+        
+        header { background-color: #fff; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); position: sticky; top: 0; z-index: 100; }
+        .navbar { display: flex; justify-content: space-between; align-items: center; padding: 1rem 0; }
+        .logo { font-size: 1.8rem; font-weight: bold; color: #d32f2f; }
+        .nav-links { display: flex; list-style: none; }
+        .nav-links li { margin-left: 1.5rem; }
+        .nav-links a { text-decoration: none; color: #333; font-weight: 500; transition: color 0.3s; }
+        .nav-links a:hover { color: #d32f2f; }
+        .cart-icon { background-color: #d32f2f; color: white; padding: 0.5rem; border-radius: 50%; width: 40px; height: 40px; 
+                    display: flex; align-items: center; justify-content: center; cursor: pointer; }
+        
+        .promo-hero { background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+                background-size: cover; background-position: center; height: 40vh; display: flex; align-items: center; 
+                justify-content: center; text-align: center; color: white; margin-bottom: 2rem; }
+        .promo-hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+        
+        .promotions { padding: 2rem 0; }
+        .section-title { text-align: center; margin-bottom: 2rem; }
+        .section-title h2 { font-size: 2rem; color: #333; margin-bottom: 0.5rem; }
+        
+        .promo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+        .promo-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+        .promo-card img { width: 100%; height: 200px; object-fit: cover; }
+        .promo-content { padding: 1.5rem; }
+        .promo-content h3 { color: #d32f2f; margin-bottom: 0.5rem; }
+        .promo-content p { color: #777; margin-bottom: 1rem; }
+        .promo-price { font-weight: bold; font-size: 1.2rem; color: #d32f2f; }
+        .old-price { text-decoration: line-through; color: #999; font-size: 0.9rem; margin-right: 0.5rem; }
+        .btn { background-color: #d32f2f; color: white; padding: 0.8rem 1.5rem; border: none; border-radius: 4px; 
+               font-size: 1rem; cursor: pointer; transition: background-color 0.3s; display: inline-block; margin-top: 1rem; }
+        .btn:hover { background-color: #b71c1c; }
+        
+        footer { background-color: #333; color: white; padding: 3rem 0; margin-top: 3rem; }
+        .footer-content { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; }
+        .footer-section h3 { margin-bottom: 1.5rem; font-size: 1.2rem; }
+        .footer-section p { margin-bottom: 0.5rem; color: #ccc; }
+        .copyright { text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #555; color: #ccc; }
+        
+        @media (max-width: 768px) {
+            .navbar { flex-direction: column; }
+            .nav-links { margin-top: 1rem; }
+            .nav-links li { margin: 0 0.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="navbar">
+                <div class="logo">Sushi Akrya</div>
+                <ul class="nav-links">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="menu.html">Menú</a></li>
+                    <li><a href="promociones.html">Promociones</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+                <div class="cart-icon" onclick="location.href='carrito.html'">🛒</div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="promo-hero">
+        <div>
+            <h1>Promociones Especiales</h1>
+            <p>Aprovecha nuestras ofertas exclusivas</p>
+        </div>
+    </section>
+
+    <section class="promotions">
+        <div class="container">
+            <div class="section-title">
+                <h2>Ofertas Destacadas</h2>
+                <p>Descuentos especiales para nuestros clientes</p>
+            </div>
+            
+            <div class="promo-grid">
+                <div class="promo-card">
+                    <img src="https://images.unsplash.com/photo-1617196035154-1e7e6e28b0db?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Combo Familiar">
+                    <div class="promo-content">
+                        <h3>Combo Familiar</h3>
+                        <p>4 rollos California, 4 rollos Philadelphia, 8 piezas de nigiri y bebidas.</p>
+                        <div class="promo-price">
+                            <span class="old-price">$45.000</span>
+                            <span>$35.000</span>
+                        </div>
+                        <a href="carrito.html" class="btn">Ordenar Ahora</a>
+                    </div>
+                </div>
+                
+                <div class="promo-card">
+                    <img src="https://images.unsplash.com/photo-1553621042-f6e147245754?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Promo Mediodía">
+                    <div class="promo-content">
+                        <h3>Promo Mediodía</h3>
+                        <p>2 rollos California + 1 bebida. Válido de lunes a viernes de 12:00 a 16:00.</p>
+                        <div class="promo-price">
+                            <span class="old-price">$15.000</span>
+                            <span>$10.000</span>
+                        </div>
+                        <a href="carrito.html" class="btn">Ordenar Ahora</a>
+                    </div>
+                </div>
+                
+                <div class="promo-card">
+                    <img src="https://images.unsplash.com/photo-1563612116621-9c3e4d43a205?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Sushi para Dos">
+                    <div class="promo-content">
+                        <h3>Sushi para Dos</h3>
+                        <p>3 rollos variados, 12 piezas de sashimi y 2 bebidas.</p>
+                        <div class="promo-price">
+                            <span class="old-price">$32.000</span>
+                            <span>$25.000</span>
+                        </div>
+                        <a href="carrito.html" class="btn">Ordenar Ahora</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Sushi Akrya</h3>
+                    <p>El mejor sushi fresco preparado diariamente con ingredientes de la más alta calidad.</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Contáctanos</h3>
+                    <p>Segunda av #1393, San Miguel</p>
+                    <p>Tel: 569 5232 5722</p>
+                    <p>Email: info@sushiAkrya.com</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h3>Horarios</h3>
+                    <p>Lunes a Sábado: 11:00 - 23:00</p>
+                    <p>Domingos: 12:00 - 22:00</p>
+                </div>
+            </div>
+            
+            <div class="copyright">
+                <p>&copy; 2025 Sushi Akrya - Todos los derechos reservados</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
