@@ -1,8 +1,8 @@
 - 👋 Buenas Gutixd 
 - @guti.xd
-- 👀 Estoy recien empezando con mis estudios de informatica
-- 🌱 Me gusta el tema de la ciberseguridad
-- 💞️ 
+- Tercer año de ingeneria en informatica
+- Quiero especializarme en ciberseguridad
+
 
 <!---
 Gutixd/Gutixd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
