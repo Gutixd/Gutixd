@@ -1,10 +1,14 @@
-- 👋 Buenas Gutixd 
-- @guti.xd
-- Tercer año de ingeneria en informatica
-- Quiero especializarme en ciberseguridad
+# 👋 @Gutixd
 
+**Estudiante de Ingeniería en Informática** | **3er año** | **21 años**  
 
-<!---
-Gutixd/Gutixd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Tecnologías:**  
+- 🐍 Python, ☕ Java, 🟨 Kotlin  
+- 🌐 CSS, JavaScript, HTML  
+- 🗄️ MySQL, SQL Server, MariaDB  
+- 🔒 Seguridad Informática & Ethical Hacking
+- 💻 Frontend
+
+🚀 **En constante aprendizaje** de nuevas tecnologías y desafíos de seguridad  
+
+📫 **Contacto:** diegogutierrezaraya2797@gmail.com
