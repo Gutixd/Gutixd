@@ -6,8 +6,7 @@
 - 🐍 Python, ☕ Java, 🟨 Kotlin  
 - 🌐 CSS, JavaScript, HTML  
 - 🗄️ MySQL, SQL Server, MariaDB  
-- 🔒 Seguridad Informática & Ethical Hacking
-- 💻 Frontend
+- 💻 Frontend adn backend
 
 🚀 **En constante aprendizaje** de nuevas tecnologías y desafíos de seguridad  
 
