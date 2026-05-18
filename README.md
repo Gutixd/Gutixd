@@ -1,52 +1,70 @@
-# ¡Hola! Soy Diego Gutiérrez (Guti) 👋
-
-## 🚀 Sobre Mí
-Soy un apasionado **Estudiante de último año de Ingeniería en Informática** en Duoc UC, enfocado en el desarrollo de software, la automatización de procesos y con bases sólidas en ciberseguridad. Actualmente me encuentro en busca de mi **práctica profesional** para aportar valor y continuar creciendo en el ecosistema TI.
-
-- 🎓 Actualmente cursando mi último año de ingeniería.
-- 💼 Creador del ecosistema web y catálogo digital para **Arácnida Store**.
-- 🛠️ Constantemente experimentando con microservicios, automatizaciones con n8n y análisis de vulnerabilidades.
-- 🌍 Idiomas: Español (Nativo) e Inglés (Intermedio-Alto / Certificado).
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### 💻 Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks y Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6A5A?style=for-the-badge&logo=n8n&logoColor=white)
-
-### 🗄️ Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🛡️ Ciberseguridad y Entornos
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-## 📊 Mis Estadísticas de GitHub
+<div align="center">
+  <h1>👋 ¡Hola! Soy Diego Gutiérrez</h1>
+  <p><strong>Futuro Ingeniero en Informática | Backend Developer | Entusiasta de la Ciberseguridad & IA</strong></p>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gutixd&show_icons=true&theme=dark&hide_border=true&title_color=7F52FF&icon_color=3DDC84" alt="Estadísticas de Gutixd" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutixd&layout=compact&theme=dark&hide_border=true&title_color=7F52FF" alt="Lenguajes más usados" width="48%" />
+  <img src="https://img.shields.io/badge/Status-Buscando%20Pr%C3%A1ctica%20Profesional-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Location-Santiago,%20Chile-blue?style=for-the-badge" alt="Location">
 </p>
 
 ---
 
-## 📬 ¡Conectemos!
-- **LinkedIn:** [linkedin.com/in/diego-gutierrez-araya-guti](https://www.linkedin.com/in/diego-gutierrez-araya-guti)
-- **Correo:** diegogutierrezaraya2797@gmail.com
+### 🌌 Sobre Mí
+
+[cite_start]Soy estudiante de último año de **Ingeniería en Informática en Duoc UC**[cite: 9, 37]. Me considero un desarrollador versátil enfocado en construir soluciones eficientes, seguras y escalables. Me apasiona el backend, el control de datos y la optimización de flujos de trabajo a través del código.
+
+* 🧠 **Mi obsesión actual:** La **Inteligencia Artificial** y la automatización profunda. [cite_start]Me fascina conectar modelos de IA, optimizar procesos con herramientas como **n8n**  y explorar cómo la IA está revolucionando el desarrollo de software y la ciberseguridad. 🤖✨
+* [cite_start]💼 **Proyectos Reales:** He desarrollado la arquitectura e-commerce completa y el catálogo digital para **Arácnida Store** en WordPress/WooCommerce, combinando desarrollo web con gestión operativa.
+* [cite_start]🛡️ **Lado Red Team:** En mis tiempos libres exploro fundamentos de ciberseguridad, análisis de redes y pentesting básico[cite: 17].
+
+---
+
+### 🛠️ Tecnologías que Realmente Uso en mi Día a Día
+
+<h4 align="left">💻 Lenguajes de Programación</h4>
+
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp; [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &nbsp; [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev) &nbsp; [![HTML5/CSS3](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+<h4 align="left">⚙️ Frameworks, Backend & E-Commerce</h4>
+
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) &nbsp; [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev) &nbsp; ![n8n](https://img.shields.io/badge/n8n-FF6A5A?style=flat-square&logo=n8n&logoColor=white) 
+
+<h4 align="left">🗄️ Gestión de Bases de Datos</h4>
+
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) &nbsp; [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) &nbsp; 
+
+<h4 align="left">🔧 Herramientas, Entornos y Ciberseguridad</h4>
+
+[![Git/GitHub](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp; [![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev) &nbsp; [![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://skillicons.dev) &nbsp; [![Kali Linux](https://skillicons.dev/icons?i=kali)](https://skillicons.dev) &nbsp; [![Notion](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+
+---
+
+### 📊 Estadísticas de Rendimiento
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Gutixd&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f5af0&icon_color=2cb67d&bg_color=16161a&text_color=94a1b2" width="100%" alt="Estadísticas de Diego" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutixd&layout=compact&theme=tokyonight&hide_border=true&title_color=7f5af0&bg_color=16161a&text_color=94a1b2" width="100%" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎯 Mis Repositorios Destacados
+
+* 📱 **CinePlus Duoc Maipu:** Aplicación móvil interactiva desarrollada nativamente en **Kotlin** usando Android Studio.
+* 🕸️ **Spiderman with Login Page:** Interfaz web responsiva con mecánicas de control de accesos usando HTML, CSS y JavaScript.
+
+---
+
+### 🤝 ¡Hablemos!
+
+* [cite_start]💼 **LinkedIn:** [/in/diego-gutierrez-araya-guti](https://www.linkedin.com/in/diego-gutierrez-araya-guti) [cite: 6]
+* [cite_start]📧 **Email:** [diegogutierrezaraya2797@gmail.com](mailto:diegogutierrezaraya2797@gmail.com) [cite: 5]
