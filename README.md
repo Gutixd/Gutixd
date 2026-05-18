@@ -42,18 +42,11 @@
 
 ### 📊 Estadísticas de Rendimiento
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gutixd&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f5af0&icon_color=2cb67d&bg_color=16161a&text_color=94a1b2" width="100%" alt="Estadísticas de Diego" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutixd&layout=compact&theme=tokyonight&hide_border=true&title_color=7f5af0&bg_color=16161a&text_color=94a1b2" width="100%" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gutixd&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f5af0&icon_color=2cb67d&bg_color=16161a&text_color=94a1b2" height="165" alt="Estadísticas de Diego" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutixd&layout=compact&theme=tokyonight&hide_border=true&title_color=7f5af0&bg_color=16161a&text_color=94a1b2" height="165" alt="Lenguajes más usados" />
+</p>
 
 ---
 
@@ -64,7 +57,8 @@
 
 ---
 
-### 🤝 ¡Hablemos!
+### 🤝 ¡Conectemos!
 
-* [cite_start]💼 **LinkedIn:** [/in/diego-gutierrez-araya-guti](https://www.linkedin.com/in/diego-gutierrez-araya-guti) [cite: 6]
-* [cite_start]📧 **Email:** [diegogutierrezaraya2797@gmail.com](mailto:diegogutierrezaraya2797@gmail.com) [cite: 5]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-gutierrez-araya-guti)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegogutierrezaraya2797@gmail.com)
