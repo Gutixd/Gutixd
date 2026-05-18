@@ -40,13 +40,6 @@
 
 ---
 
-### 📊 Estadísticas de Rendimiento
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gutixd&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f5af0&icon_color=2cb67d&bg_color=16161a&text_color=94a1b2" height="165" alt="Estadísticas de Diego" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutixd&layout=compact&theme=tokyonight&hide_border=true&title_color=7f5af0&bg_color=16161a&text_color=94a1b2" height="165" alt="Lenguajes más usados" />
-</p>
 
 ---
 
