@@ -12,11 +12,11 @@
 
 ### 🌌 Sobre Mí
 
-[cite_start]Soy estudiante de último año de **Ingeniería en Informática en Duoc UC**[cite: 9, 37]. Me considero un desarrollador versátil enfocado en construir soluciones eficientes, seguras y escalables. Me apasiona el backend, el control de datos y la optimización de flujos de trabajo a través del código.
+[cite_start]Soy estudiante de último año de **Ingeniería en Informática en Duoc UC. Me considero un desarrollador versátil enfocado en construir soluciones eficientes, seguras y escalables. Me apasiona el backend, el control de datos y la optimización de flujos de trabajo a través del código.
 
-* 🧠 **Mi obsesión actual:** La **Inteligencia Artificial** y la automatización profunda. [cite_start]Me fascina conectar modelos de IA, optimizar procesos con herramientas como **n8n**  y explorar cómo la IA está revolucionando el desarrollo de software y la ciberseguridad. 🤖✨
+* 🧠 **Mi obsesión actual:** La **Inteligencia Artificial** y la automatización profunda. Me fascina conectar modelos de IA, optimizar procesos con herramientas como **n8n**  y explorar cómo la IA está revolucionando el desarrollo de software y la ciberseguridad. 🤖✨
 * [cite_start]💼 **Proyectos Reales:** He desarrollado la arquitectura e-commerce completa y el catálogo digital para **Arácnida Store** en WordPress/WooCommerce, combinando desarrollo web con gestión operativa.
-* [cite_start]🛡️ **Lado Red Team:** En mis tiempos libres exploro fundamentos de ciberseguridad, análisis de redes y pentesting básico[cite: 17].
+* [cite_start]🛡️ **Lado Red Team:** En mis tiempos libres exploro fundamentos de ciberseguridad, análisis de redes y pentesting básico.
 
 ---
 
