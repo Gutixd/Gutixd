@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Diego Gutiérrez</h1>
+  <h1> Guti</h1>
   <p><strong>Futuro Ingeniero en Informática | Backend Developer | Entusiasta de la Ciberseguridad & IA</strong></p>
 </div>
 
